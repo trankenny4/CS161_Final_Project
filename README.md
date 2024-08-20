@@ -1,4 +1,4 @@
-The final project to create a text-based Mancala game in Oregon State University's CS 161 course.
+The final project to create a text-based Mancala game.
 
 # Instructions
 Create a class called Mancala that allows two people to play a text-based version of the game (check the attached PDF file for the detailed rules).
